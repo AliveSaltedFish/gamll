@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gamll.iml" filepath="$PROJECT_DIR$/.idea/gamll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-api/gamll-api.iml" filepath="$PROJECT_DIR$/gamll-api/gamll-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-cart-service/gamll-cart-service.iml" filepath="$PROJECT_DIR$/gamll-cart-service/gamll-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-cart-web/gamll-cart-web.iml" filepath="$PROJECT_DIR$/gamll-cart-web/gamll-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-common-util/gamll-common-util.iml" filepath="$PROJECT_DIR$/gamll-common-util/gamll-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-item-web/gamll-item-web.iml" filepath="$PROJECT_DIR$/gamll-item-web/gamll-item-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-manage-service/gamll-manage-service.iml" filepath="$PROJECT_DIR$/gamll-manage-service/gamll-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-manage-web/gamll-manage-web.iml" filepath="$PROJECT_DIR$/gamll-manage-web/gamll-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-order-service/gamll-order-service.iml" filepath="$PROJECT_DIR$/gamll-order-service/gamll-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-order-web/gamll-order-web.iml" filepath="$PROJECT_DIR$/gamll-order-web/gamll-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-parent/gamll-parent.iml" filepath="$PROJECT_DIR$/gamll-parent/gamll-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-passport-web/gamll-passport-web.iml" filepath="$PROJECT_DIR$/gamll-passport-web/gamll-passport-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-payment/gamll-payment.iml" filepath="$PROJECT_DIR$/gamll-payment/gamll-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-search-service/gamll-search-service.iml" filepath="$PROJECT_DIR$/gamll-search-service/gamll-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-search-web/gamll-search-web.iml" filepath="$PROJECT_DIR$/gamll-search-web/gamll-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-service-util/gamll-service-util.iml" filepath="$PROJECT_DIR$/gamll-service-util/gamll-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-user-service/gamll-user-service.iml" filepath="$PROJECT_DIR$/gamll-user-service/gamll-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-user-web/gamll-user-web.iml" filepath="$PROJECT_DIR$/gamll-user-web/gamll-user-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-web-util/gamll-web-util.iml" filepath="$PROJECT_DIR$/gamll-web-util/gamll-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gware-manage/gware-manage.iml" filepath="$PROJECT_DIR$/gware-manage/gware-manage.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fastdfs-client-java" />
+        <module name="gamll-api" />
+        <module name="gamll-cart-service" />
+        <module name="gamll-cart-web" />
+        <module name="gamll-common-util" />
+        <module name="gamll-item-web" />
+        <module name="gamll-manage-service" />
+        <module name="gamll-manage-web" />
+        <module name="gamll-order-service" />
+        <module name="gamll-order-web" />
+        <module name="gamll-passport-web" />
+        <module name="gamll-payment" />
+        <module name="gamll-search-service" />
+        <module name="gamll-search-web" />
+        <module name="gamll-service-util" />
+        <module name="gamll-user-service" />
+        <module name="gamll-user-web" />
+        <module name="gamll-web-util" />
+        <module name="gware-manage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastdfs-client-java" target="1.6" />
+      <module name="gamll-api" target="1.8" />
+      <module name="gamll-cart-service" target="1.8" />
+      <module name="gamll-cart-web" target="1.8" />
+      <module name="gamll-common-util" target="1.8" />
+      <module name="gamll-commonutil" target="1.8" />
+      <module name="gamll-item-web" target="1.8" />
+      <module name="gamll-manage-service" target="1.8" />
+      <module name="gamll-manage-web" target="1.8" />
+      <module name="gamll-member" target="1.8" />
+      <module name="gamll-order-service" target="1.8" />
+      <module name="gamll-order-web" target="1.8" />
+      <module name="gamll-parent" target="1.8" />
+      <module name="gamll-passport-web" target="1.8" />
+      <module name="gamll-payment" target="1.8" />
+      <module name="gamll-search-service" target="1.8" />
+      <module name="gamll-search-web" target="1.8" />
+      <module name="gamll-service-util" target="1.8" />
+      <module name="gamll-user-service" target="1.8" />
+      <module name="gamll-user-web" target="1.8" />
+      <module name="gamll-web-util" target="1.8" />
+      <module name="gware-manage" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
